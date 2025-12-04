@@ -1,4 +1,4 @@
-/* New Things Every Day — Day 57 */
+/* New Things Every Day — Day57 */
 /* Generates a daily log entry with a unique identifier */
 
 function dailyLog57() {
